@@ -1,8 +1,8 @@
-# NetworkTestiniumTestCase/
+# NetworkTestiniumTestCase\
 
-Network sayfasına gidilir./
-Network url’nin geldiği kontrol edilir./
-Arama sekmesinde “ceket” yazdırılır ve arama yaptırılır/
+Network sayfasına gidilir.\
+Network url’nin geldiği kontrol edilir.\
+Arama sekmesinde “ceket” yazdırılır ve arama yaptırılır\
 Ürün listeme sayfasında daha fazla göster butonuna kadar scroll yapılır/
 2.sayfaya geçildiği kontrol edilir(url değişiyor)./
 Ürün listeme sayfasında İndirimli ilk ürüne hover edilerek rastgele beden seçimi yapılır./
